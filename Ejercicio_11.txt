@@ -1,0 +1,3 @@
+El sueldo neto de un vendedor se calcula como la suma de un sueldo base de $128.000 más el 12% del monto total vendido.  Diseñar un programa que determine el sueldo neto de un vendedor sabiendo que hizo 5 ventas al mes.
+
+
